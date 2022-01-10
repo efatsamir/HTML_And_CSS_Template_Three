@@ -1,2 +1,2 @@
 # HTML_And_CSS_Template_Three
-Landing Page using HTML5 &amp; CSS3
+Responsive landing Page using HTML5 & CSS3
